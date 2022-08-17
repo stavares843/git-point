@@ -187,7 +187,7 @@ module.exports = {
   "You don't have any notifications of this type":
     'Nie masz więcej notyfikacji tego rodzaju',
   'You may have to request approval for them.':
-    'Być może musisz wystąpić o ich zatwierdzenie.',
+    'Być może musisz wystąpić o ich zatweirdzenie.',
   'You need to have a commit title!': 'Podaj tytuł komitu!',
   'You need to have an issue title!': 'Musisz zmienić tytuł problemu!',
   _thousandsAbbreviation: 'ts',
